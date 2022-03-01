@@ -9,7 +9,7 @@ const webpack = require('webpack')
 const config = require('../config')
 const webpackConfig = require('./webpack.prod.conf')
 
-process.env.NODE_ENV = 'production'
+// process.env.NODE_ENV = 'production'
 
 const spinner = ora('building for production...')
 spinner.start()

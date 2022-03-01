@@ -2,7 +2,7 @@
   "name": "radioani.me",
   "version": "1.0.0",
   "description": "Anime Radio player using Vue",
-  "author": "Coreus <coreus@1337.no>",
+  "author": "Coreus",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
